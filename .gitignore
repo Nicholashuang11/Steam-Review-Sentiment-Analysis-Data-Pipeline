@@ -1,0 +1,12 @@
+data/
+watermark.json
+.env
+.git/
+plugins/
+pg_data/
+logs/
+duckdb_data/
+data/
+config/
+dags/*
+!dags/steamdag.py
