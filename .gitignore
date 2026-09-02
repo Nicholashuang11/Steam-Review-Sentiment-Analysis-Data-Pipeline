@@ -1,5 +1,4 @@
 data/
-watermark.json
 .env
 .git/
 plugins/
@@ -10,3 +9,5 @@ data/
 config/
 dags/*
 !dags/steamdag.py
+backup2steamdag.py
+backupdag.py
